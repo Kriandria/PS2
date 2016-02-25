@@ -5,7 +5,7 @@ public class MyInteger {
 	private int iValue;
 	
 	MyInteger(int value) {
-		this.iValue = value;
+		iValue = value;
 	}
 	
 	public int getValue() {
